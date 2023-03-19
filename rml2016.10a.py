@@ -30,7 +30,7 @@ print(classes)
 
 # Set up some params
 nb_epoch = 100     # number of epochs to train on
-batch_size = 1024  # training batch size
+batch_size = 254  # training batch size
 
 # perform training ...
 #   - call the main training loop in keras for our network+dataset
